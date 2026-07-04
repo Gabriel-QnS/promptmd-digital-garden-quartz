@@ -8,7 +8,7 @@ La definición tradicional de agente se mantiene vigente: una entidad autónoma 
 ![[Pasted image 20260623093815.png]]
 ### A. Cerebros: El cambio hacia los "modelos de pensamiento"[00:02:57]
 - El concepto:Los agentes modernos recurren cada vez más a "modelos de pensamiento" (por ejemplo, Gemini Flash-Thinking o modelos de la serie o). Estos modelos incorporan la autorreflexión y el procesamiento de la cadena de pensamiento directamente en su bucle de inferencia antes de presentar un resultado final.
-- Verificación del realismo crítico:Si bien son muy valiosos para el razonamiento complejo, los modelos de pensamiento introducen una importante desventaja:latencia y costo.
+- Verificación del realismo crítico: Si bien son muy valiosos para el razonamiento complejo, los modelos de pensamiento introducen una importante desventaja: latencia y costo.
 - La estrategia:No utilice modelos conceptuales para pasos de enrutamiento sencillos o procesos de extracción. Resérvelos exclusivamente para tareas críticas altamente ambiguas donde un error puede ser catastrófico (por ejemplo, la selección inicial de pacientes para ensayos clínicos o la conciliación de contratos legales complejos).
 ### B. Herramientas: El Protocolo de Contexto del Modelo (MCP)[00:03:16]
 - El concepto:En lugar de depender de API frágiles y codificadas a medida, los agentes modernos aprovechan laProtocolo de Contexto de Modelo (MCP)MCP funciona como un envoltorio de API rico en metadatos que explicacómola herramienta se utiliza, qué significan sus entradas/salidas y el contexto exacto de su aplicabilidad.[00:03:37].
