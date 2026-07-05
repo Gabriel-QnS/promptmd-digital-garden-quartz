@@ -12,4 +12,4 @@ La dirección importa: el cerebro instruye a las herramientas, las herramientas 
 
 ![[Pasted image 20260623093815.png]]
 
-#estado/semilla #ambito/medicina-tech
+#estado/semilla #ambito/medicina-tech #Antigravity 
