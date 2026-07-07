@@ -212,4 +212,6 @@ La herramienta es excelente y recomiendo aprenderla.
 
 No puedo enfatizar lo suficiente que se debe tener extremo cuidado en los pasos asignados al modelo. Claramente es capaz de afectar los archivos del sistema directamente, y si bien es posible que los guardrails de cada modelo eviten un daño masivo a tu sistema no es buena idea arriesgarse sin necesidad. Prompting cuidadoso!
 
+Luego de todo decidí escribir esto en mi galería, lo escribí sin fijarme mucho en la gramática, y simplemente le pedí a antigravity que se encarga de hacer un check de gramática básico y aplicarlo, en español latino. ¡Maravillas!
+
 #Antigravity  #estado/revision 
