@@ -208,6 +208,8 @@ Ingenieros capaces que no hayan implementado esta sencilla automatizacion antes 
 
 # Resultados
 El manejo inicial me deja satisfecho y optimista. Lo juzgo como más que adecuado. Especificamente sobre la interfaz de Antigravity, es clara, modesta y elegante. Considero que podrían usar una mejor implementacion en los pasos de seguridad - es posible presionar "Skip" y hacer que el modelo lo interprete como un auto-yes global y ejecute acciones peligrosas. Antigravity es mucho mas liberal con los permisos que le da al modelo que por ejemplo, Claude. 
-La herramienta es excelente y recomiendo aprenderla.
+La herramienta es excelente y recomiendo aprenderla. 
+
+No puedo enfatizar lo suficiente que se debe tener extremo cuidado en los pasos asignados al modelo. Claramente es capaz de afectar los archivos del sistema directamente, y si bien es posible que los guardrails de cada modelo eviten un daño masivo a tu sistema no es buena idea arriesgarse sin necesidad. Prompting cuidadoso!
 
 #antigravity #seed #estado/revision 
