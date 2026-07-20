@@ -66,3 +66,5 @@ El ejercicio terapéutico debe entenderse como un fármaco físico dosificado. S
 3. **Implementar la Neurodinamia de Forma Progresiva:** En casos de dolor con sospecha de atrapamiento periférico o edema perineural, programar sesiones de movilización neural sin sobrepasar el umbral de dolor del atleta.
 4. **Preservar el Engrama Motor de Forma Temprana:** Diseñar rutinas de visualización cognitiva y simulación biomecánica sin carga para mantener activo el patrón neuromuscular del gesto deportivo específico de la disciplina.
 5. **Coordinar el Retorno Gradual:** Realizar una junta técnica entre el área médica de rehabilitación y el preparador físico del atleta para pautar la progresión de cargas y evitar la relesión por sobreesfuerzo.
+
+![[With Brand Logo.png]]
